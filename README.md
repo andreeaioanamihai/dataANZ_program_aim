@@ -2,11 +2,11 @@
 
 Data@ANZ Virtual Experience Program
 
-Introduction:
+     Introduction:
 
 ANZ is one of the big four banks in Australia. This virtual experience program aims to explore the transactional behaviour of ANZ customers by examining the transactions made by 100 ANZ customers over a 3-month period. These transactions include purchases, recurring transactions and salary transactions.
 
-Task 1: Exploratory Data Analysis:
+     Task 1: Exploratory Data Analysis:
 
 Segment the dataset and draw unique insights, including visusalisation of the transaction volume and assessing the effect of any outliers.
 
@@ -18,7 +18,7 @@ Segment the dataset and draw unique insights, including visusalisation of the tr
 
 • For a challenge: what insights can you draw from the location information provided in the dataset?
 
-Task 2: Predictive Analytics:
+     Task 2: Predictive Analytics:
 
 Explore correlations between customer attributes, build a regression and a decision-tree prediction model based on your findings.
 
